@@ -1,3 +1,5 @@
+/* original code: https://gist.github.com/2058263 */
+
     /* use jQuery as container for more convenience */
     (function($) {
         /**
